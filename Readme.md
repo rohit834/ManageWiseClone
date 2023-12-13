@@ -26,7 +26,7 @@ Our Frontend Website is designed to give beautiful UI , with featuers such as ou
 
 ### Live at
 
-https://raviraj-manage-wise-clone.netlify.app/
+http://manage-wise-clone.netlify.app
 
 ## Technology Stack
 
@@ -34,7 +34,7 @@ https://raviraj-manage-wise-clone.netlify.app/
 ## To Run the Project
 
 ```sh
-$ git clone https://github.com/Raviraj39/Managewise
+$ git clone http://manage-wise-clone.netlify.app
 $ cd Managerwise
 $ run the live server
 Runs the app in the development mode.\
